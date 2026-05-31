@@ -1,0 +1,1 @@
+pipreqs ./app/ --force
